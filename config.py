@@ -13,7 +13,7 @@ Example - JOIN_LOGGER = os.environ.get("EVENT_LOGS", "-100828822882")
 # Token from botfather 
 TOKEN = os.environ.get("TOKEN", "")
 
-# Make a new group then add @ScenarioXbot then send /id and fill id here.
+# Make a new group then add @MissKaurXbot then send /id and fill id here.
 JOIN_LOGGER = os.environ.get("EVENT_LOGS", "")
 
 # only one # don't remove other one.
@@ -41,17 +41,17 @@ TIGERS = {int(x) for x in os.environ.get("TIGERS", "").split()}
 # default value is true
 INFOPIC = bool(os.environ.get("INFOPIC", True)) or "https://telegra.ph/file/a9ec99487ecd550460309.jpg"
 
-# Make a new group then add @ScenarioXbot then send /id and fill id here.
+# Make a new group then add @MissKaurXbot then send /id and fill id here.
 EVENT_LOGS = os.environ.get("EVENT_LOGS", None)
 
-# Make a new group then add @ScenarioXbot then send /id and fill id here.
+# Make a new group then add @MissKaurXbot then send /id and fill id here.
 ERROR_LOGS = os.environ.get("ERROR_LOGS", None)
 
 # Don't touch if you don't know.
 WEBHOOK = bool(os.environ.get("WEBHOOK", False))
 
 # heroku app url
-URL = os.environ.get("URL", "")  # If You Deploy On Heroku. [URL PERTEN:- https://{appname}.herokuapp.com/ || EXP:- https://scenario.herokuapp.com/]
+URL = os.environ.get("URL", "")  # If You Deploy On Heroku. [URL PERTEN:- https://{appname}.herokuapp.com/ || EXP:- https://MissKaur.herokuapp.com/]
 PORT = int(os.environ.get("PORT", 8443))
 
 CERT_PATH = os.environ.get("CERT_PATH")
@@ -86,14 +86,14 @@ GENIUS_API_TOKEN = os.environ.get("GENIUS_API_TOKEN", None) # From:- http://geni
 MONGO_DB_URL = os.environ.get("MONGO_DB_URL", "mongodb+srv://Cluster006:600510@cluster006.ootpa.mongodb.net/Cluster006?retryWrites=true&w=majority")
 REDIS_URL = os.environ.get("REDIS_URL", "redis://Madharjoot:GuKhao123_@redis-12276.c275.us-east-1-4.ec2.cloud.redislabs.com:12276/Madharjoot")
 BOT_ID = int(os.environ.get("BOT_ID", None)) # Telegram Bot ID (EXP:- 1241223850)
-SUPPORT_CHAT = os.environ.get("SUPPORT_CHAT", None) # Support Chat Group Link (Use @ScenarioXSupport || Dont Use https://t.me/ScenarioXSupport)
+SUPPORT_CHAT = os.environ.get("SUPPORT_CHAT", None) # Support Chat Group Link (Use @MissKaurXSupport || Dont Use https://t.me/MissKaurXSupport)
 SPAMWATCH_SUPPORT_CHAT = os.environ.get("SPAMWATCH_SUPPORT_CHAT", None) # Use @SpamWatchSupport
 SPAMWATCH_API = os.environ.get("SPAMWATCH_API", None) # From https://t.me/SpamWatchBot 
 BOT_USERNAME = os.environ.get("BOT_USERNAME", "") # Bot Username
 
 STRING_SESSION = os.environ.get("STRING_SESSION", None) # Telethon Based String Session (2nd ID) [ From https://repl.it/@SpEcHiDe/GenerateStringSession ]
-REPO = "TeamScenario/Scenario"
-DEVELOPER = "TeamScenario"
+REPO = "TeamMissKaur/MissKaur"
+DEVELOPER = "TeamMissKaur"
 APP_ID = API_ID
 APP_HASH = API_HASH
 HEROKU_APP_NAME = os.environ.get("HEROKU_APP_NAME", True) # Heroku App Name 
@@ -103,18 +103,18 @@ UPSTREAM_REPO = os.environ.get("UPSTREAM_REPO", True)
 YOUTUBE_API_KEY = os.environ.get("YOUTUBE_API_KEY", True)
 ALLOW_CHATS = os.environ.get("ALLOW_CHATS", True) # Don't Change
 BOT_NAME = os.environ.get("BOT_NAME", True) # Name Of your Bot.
-MONGO_DB = "scenario" # Don't change else errors.
+MONGO_DB = "MissKaur" # Don't change else errors.
 ARQ_API_URL = "https://arq.hamker.in"
 GOOGLE_CHROME_BIN = "/usr/bin/google-chrome"
 CHROME_DRIVER = "/usr/bin/chromedriver"
 SUDO_USERS = "2142595466"
 WHITELIST_USERS = "2142595466"
 BOT_API_URL = os.environ.get('BOT_API_URL', "https://api.telegram.org/bot")
-UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", "TeamScenario")
+UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", "TeamMissKaur")
 
 HELP_IMG = os.environ.get("HELP_IMG", True) or "https://telegra.ph/file/a9ec99487ecd550460309.jpg"
 GROUP_START_IMG = os.environ.get("GROUP_START_IMG", True) or "https://telegra.ph/file/a9ec99487ecd550460309.jpg"
-scenario_pic = os.environ.get("scenario_pic", True) or "https://telegra.ph/file/a9ec99487ecd550460309.jpg"
+MissKaur_pic = os.environ.get("MissKaur_pic", True) or "https://telegra.ph/file/a9ec99487ecd550460309.jpg"
 
 BL_CHATS = {int(x) for x in os.environ.get("BL_CHATS", "").split()}
 

@@ -1,4 +1,4 @@
-# A project By TeamScenario
+# A project By TeamMissKaur
 
 • A star 🌟 from you means a lot please star if you liked this project.
 <span style="color:blue">some Hello text</span>. 
@@ -17,12 +17,12 @@
 | API_ID | Get it from my.telegram.org |
 | API_HASH | Get it from my.telegram.org |
 | TOKEN | from @BotFather |
-| OWNER_ID | DM @ScenarioXbot and send /id |
+| OWNER_ID | DM @MissKaurXbot and send /id |
 | DEV_USERS | same as OWNER_ID |
 | String | use @StringFatherBot (Telethon session)| 
 
 
-> Scenario is the most Advanced telegram bot to manage your groups. 
+> MissKaur is the most Advanced telegram bot to manage your groups. 
 Demo bot - @anonymous_4_robot
 
 ## How to Deploy 
@@ -37,10 +37,10 @@ Demo bot - @anonymous_4_robot
 • before that please star 🥺
 
 • Click here to fork ↓
-<p><a href="https://github.com/TeamScenario/Scenario/fork"><img src="https://telegra.ph/file/8b61f6edc2a35c473ddff.jpg" alt="Press to Takeoff" width="490px"></a></p>
+<p><a href="https://github.com/TeamMissKaur/MissKaur/fork"><img src="https://telegra.ph/file/8b61f6edc2a35c473ddff.jpg" alt="Press to Takeoff" width="490px"></a></p>
     
-<h4>Click the button below to deploy Scenario on Heroku!</h4>    
-<p><a href="https://teamscenario.blogspot.com/heroku-deployer"><img src="https://telegra.ph/file/57c4edb389224c9cf9996.png" alt="Press to Takeoff" width="490px"></a></p>
+<h4>Click the button below to deploy MissKaur on Heroku!</h4>    
+<p><a href="https://teamMissKaur.blogspot.com/heroku-deployer"><img src="https://telegra.ph/file/57c4edb389224c9cf9996.png" alt="Press to Takeoff" width="490px"></a></p>
 </details>
 <details>
 <summary> 🍀 Update heroku app with CLI 🍀</summary>
@@ -50,7 +50,7 @@ Demo bot - @anonymous_4_robot
 - [x] Android 7 and above
 - [ ] Below Android 7
 
-<p><a href="https://github.com/TeamScenario/Heroku-Cli-Termux-Android/tree/TeamScenario"><img src="https://telegra.ph/file/ec51eb578a1b73bf495fe.jpg" alt="Press to Takeoff" width="490px"></a></p>
+<p><a href="https://github.com/TeamMissKaur/Heroku-Cli-Termux-Android/tree/TeamMissKaur"><img src="https://telegra.ph/file/ec51eb578a1b73bf495fe.jpg" alt="Press to Takeoff" width="490px"></a></p>
 </details>
 
 <details>
@@ -61,9 +61,9 @@ Demo bot - @anonymous_4_robot
     </br>
 #### First fill all vars in config.py
 ```console
-git clone https://github.com/TeamScenario/Scenario && cd Scenario && pip3 install -U -r requirements.txt && python -m scenario
+git clone https://github.com/TeamMissKaur/MissKaur && cd MissKaur && pip3 install -U -r requirements.txt && python -m MissKaur
 ```
-If android then execute this cd command ```cd /storage/emulated/0/scenario``` else only cd Scenario
+If android then execute this cd command ```cd /storage/emulated/0/MissKaur``` else only cd MissKaur
 </details>
 
 <details>
@@ -72,8 +72,8 @@ If android then execute this cd command ```cd /storage/emulated/0/scenario``` el
  
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>Contact us
 
-[![Group](https://img.shields.io/badge/dynamic/json?logo=telegram&label=%40ScenarioXsupport&labelColor=282c34&suffix=+members&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3DThe_Arc_Music&longCache=true%22)](https://t.me/ScenarioXsupport)
-[![Group](https://img.shields.io/badge/dynamic/json?logo=telegram&label=%40TeamScenario&labelColor=282c34&suffix=+members&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3DThe_Arc_Music&longCache=true%22)](https://t.me/TeamScenario)
+[![Group](https://img.shields.io/badge/dynamic/json?logo=telegram&label=%40MissKaurXsupport&labelColor=282c34&suffix=+members&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3DThe_Arc_Music&longCache=true%22)](https://t.me/MissKaurXsupport)
+[![Group](https://img.shields.io/badge/dynamic/json?logo=telegram&label=%40TeamMissKaur&labelColor=282c34&suffix=+members&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3DThe_Arc_Music&longCache=true%22)](https://t.me/TeamMissKaur)
 </details>
   
 
@@ -82,6 +82,6 @@ If android then execute this cd command ```cd /storage/emulated/0/scenario``` el
 - [x] Less vars to fill
 - [ ] Design improvement
 
-[^TeamScenario]
-[^TeamScenario]: *©2022 TeamScenario All rights reserved!*
+[^TeamMissKaur]
+[^TeamMissKaur]: *©2022 TeamMissKaur All rights reserved!*
 

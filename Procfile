@@ -1,2 +1,2 @@
-scenario: python3 -m scenario
-ps:scale scenario=1
+MissKaur: python3 -m MissKaur
+ps:scale MissKaur=1

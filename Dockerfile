@@ -68,12 +68,12 @@ RUN pip3 install --upgrade pip setuptools
 ENV PATH="/home/bot/bin:$PATH"
 
 # make directory
-RUN mkdir /scenario/
-COPY . /scenario
-WORKDIR /scenario
+RUN mkdir /MissKaur/
+COPY . /MissKaur
+WORKDIR /MissKaur
 
 # Install requirements
 RUN pip3 install -U -r requirements.txt
 
 # Starting Worker
-CMD ["python3","-m","scenario"]
+CMD ["python3","-m","MissKaur"]
